@@ -1,0 +1,12 @@
+{
+    "name": "criablock",
+    "version": "1.0.0",
+    "description": "Servidor Minecraft Bedrock simples",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "bedrock-protocol": "^1.0.0"  // Verifique a versão mais recente
+    }
+}
